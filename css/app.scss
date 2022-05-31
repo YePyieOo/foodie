@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&family=Padauk:wght@400;700&display=swap");
+$primary: green;
+$font-family-sans-serif: "Montserrat", "Padauk", sans-serif;
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Custom CSS
+
+.header-icon {
+   width: 40px;
+   height: 40px;
+}
+
+.header {
+}
+
+.first-svg {
+   width: 65px;
+   height: 65px;
+   fill: var(--bs-primary);
+}
